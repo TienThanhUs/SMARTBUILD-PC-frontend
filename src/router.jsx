@@ -11,6 +11,7 @@ import { LoginPage } from './pages/auth/LoginPage'
 import { RegisterPage } from './pages/auth/RegisterPage'
 import { ResetPasswordPage } from './pages/auth/ResetPasswordPage'
 import { HomePage } from './pages/shop/HomePage'
+import { ProductsPage } from './pages/shop/ProductsPage'
 
 // Routes follow the "URL liên quan" column of SmartBuildPC_API_List.
 // Swap each `todo(...)` for the real page component as it gets built.
@@ -32,7 +33,7 @@ export const router = createBrowserRouter([
     element: <MainLayout />,
     children: [
       { path: '/', element: <HomePage /> },
-      { path: '/products', element: todo('Linh kiện', ['GET /categories', 'GET /products']) },
+      { path: '/products', element: <ProductsPage /> },
       {
         path: '/products/:id',
         element: todo('Chi tiết sản phẩm', ['GET /products/{id}', 'GET /products/{id}/reviews', 'POST /cart/items']),

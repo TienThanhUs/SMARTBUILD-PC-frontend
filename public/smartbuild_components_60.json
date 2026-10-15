@@ -1,0 +1,1044 @@
+[
+  {
+    "id": 1,
+    "category": "CPU",
+    "name": "Intel Core i3-12100F (Up to 4.30GHz, 4 Nhân 8 Luồng)",
+    "price": 1990000,
+    "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 4,
+      "threads": 8,
+      "baseClock": "3.3 GHz",
+      "boostClock": "4.3 GHz",
+      "tdp": 58,
+      "ramSupport": [
+        "DDR4",
+        "DDR5"
+      ],
+      "hasIgpu": false
+    }
+  },
+  {
+    "id": 2,
+    "category": "CPU",
+    "name": "Intel Core i5-12400F (Up to 4.40GHz, 6 Nhân 12 Luồng)",
+    "price": 2690000,
+    "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 6,
+      "threads": 12,
+      "baseClock": "2.5 GHz",
+      "boostClock": "4.4 GHz",
+      "tdp": 65,
+      "ramSupport": [
+        "DDR4",
+        "DDR5"
+      ],
+      "hasIgpu": false
+    }
+  },
+  {
+    "id": 3,
+    "category": "CPU",
+    "name": "Intel Core i5-13400F (Up to 4.60GHz, 10 Nhân 16 Luồng)",
+    "price": 4890000,
+    "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 10,
+      "threads": 16,
+      "baseClock": "2.5 GHz",
+      "boostClock": "4.6 GHz",
+      "tdp": 65,
+      "ramSupport": [
+        "DDR4",
+        "DDR5"
+      ],
+      "hasIgpu": false
+    }
+  },
+  {
+    "id": 4,
+    "category": "CPU",
+    "name": "Intel Core i5-14400F (Up to 4.70GHz, 10 Nhân 16 Luồng)",
+    "price": 5190000,
+    "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 10,
+      "threads": 16,
+      "baseClock": "2.5 GHz",
+      "boostClock": "4.7 GHz",
+      "tdp": 65,
+      "ramSupport": [
+        "DDR4",
+        "DDR5"
+      ],
+      "hasIgpu": false
+    }
+  },
+  {
+    "id": 5,
+    "category": "CPU",
+    "name": "Intel Core i5-13600K (Up to 5.10GHz, 14 Nhân 20 Luồng)",
+    "price": 6990000,
+    "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 14,
+      "threads": 20,
+      "baseClock": "3.5 GHz",
+      "boostClock": "5.1 GHz",
+      "tdp": 125,
+      "ramSupport": [
+        "DDR4",
+        "DDR5"
+      ],
+      "hasIgpu": true
+    }
+  },
+  {
+    "id": 6,
+    "category": "CPU",
+    "name": "Intel Core i7-14700K (Up to 5.60GHz, 20 Nhân 28 Luồng)",
+    "price": 10890000,
+    "image_url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 20,
+      "threads": 28,
+      "baseClock": "3.4 GHz",
+      "boostClock": "5.6 GHz",
+      "tdp": 125,
+      "ramSupport": [
+        "DDR4",
+        "DDR5"
+      ],
+      "hasIgpu": true
+    }
+  },
+  {
+    "id": 7,
+    "category": "CPU",
+    "name": "AMD Ryzen 5 5600 (Up to 4.40GHz, 6 Nhân 12 Luồng)",
+    "price": 2790000,
+    "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "AM4",
+      "cores": 6,
+      "threads": 12,
+      "baseClock": "3.5 GHz",
+      "boostClock": "4.4 GHz",
+      "tdp": 65,
+      "ramSupport": [
+        "DDR4"
+      ],
+      "hasIgpu": false
+    }
+  },
+  {
+    "id": 8,
+    "category": "CPU",
+    "name": "AMD Ryzen 7 7800X3D (Up to 5.00GHz, 8 Nhân 16 Luồng, 3D V-Cache)",
+    "price": 9990000,
+    "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "AM5",
+      "cores": 8,
+      "threads": 16,
+      "baseClock": "4.2 GHz",
+      "boostClock": "5.0 GHz",
+      "tdp": 120,
+      "ramSupport": [
+        "DDR5"
+      ],
+      "hasIgpu": true
+    }
+  },
+  {
+    "id": 9,
+    "category": "Mainboard",
+    "name": "Mainboard MSI PRO H610M-G DDR4",
+    "price": 1790000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "H610",
+      "formFactor": "Micro-ATX",
+      "ramType": "DDR4",
+      "ramSlots": 2,
+      "maxRamGb": 64,
+      "pcieGen": "PCIe 4.0",
+      "m2Slots": 1,
+      "hasWifi": false
+    }
+  },
+  {
+    "id": 10,
+    "category": "Mainboard",
+    "name": "Mainboard Gigabyte B760M GAMING PLUS WIFI DDR4",
+    "price": 3190000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "formFactor": "Micro-ATX",
+      "ramType": "DDR4",
+      "ramSlots": 4,
+      "maxRamGb": 128,
+      "pcieGen": "PCIe 4.0",
+      "m2Slots": 2,
+      "hasWifi": true
+    }
+  },
+  {
+    "id": 11,
+    "category": "Mainboard",
+    "name": "Mainboard MSI B760 GAMING PLUS WIFI DDR5",
+    "price": 3990000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "formFactor": "ATX",
+      "ramType": "DDR5",
+      "ramSlots": 4,
+      "maxRamGb": 192,
+      "pcieGen": "PCIe 4.0",
+      "m2Slots": 2,
+      "hasWifi": true
+    }
+  },
+  {
+    "id": 12,
+    "category": "Mainboard",
+    "name": "Mainboard MSI MAG B760 TOMAHAWK WIFI DDR5",
+    "price": 5290000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "formFactor": "ATX",
+      "ramType": "DDR5",
+      "ramSlots": 4,
+      "maxRamGb": 192,
+      "pcieGen": "PCIe 5.0",
+      "m2Slots": 3,
+      "hasWifi": true
+    }
+  },
+  {
+    "id": 13,
+    "category": "Mainboard",
+    "name": "Mainboard MSI PRO Z790-A MAX WIFI DDR5",
+    "price": 6490000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "formFactor": "ATX",
+      "ramType": "DDR5",
+      "ramSlots": 4,
+      "maxRamGb": 192,
+      "pcieGen": "PCIe 5.0",
+      "m2Slots": 4,
+      "hasWifi": true
+    }
+  },
+  {
+    "id": 14,
+    "category": "Mainboard",
+    "name": "Mainboard MSI B450M-A PRO MAX II",
+    "price": 1390000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "B450",
+      "formFactor": "Micro-ATX",
+      "ramType": "DDR4",
+      "ramSlots": 2,
+      "maxRamGb": 64,
+      "pcieGen": "PCIe 3.0",
+      "m2Slots": 1,
+      "hasWifi": false
+    }
+  },
+  {
+    "id": 15,
+    "category": "Mainboard",
+    "name": "Mainboard Asus PRIME B550M-A WIFI II",
+    "price": 2690000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "formFactor": "Micro-ATX",
+      "ramType": "DDR4",
+      "ramSlots": 4,
+      "maxRamGb": 128,
+      "pcieGen": "PCIe 4.0",
+      "m2Slots": 2,
+      "hasWifi": true
+    }
+  },
+  {
+    "id": 16,
+    "category": "Mainboard",
+    "name": "Mainboard MSI MAG B650 TOMAHAWK WIFI DDR5",
+    "price": 5490000,
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "formFactor": "ATX",
+      "ramType": "DDR5",
+      "ramSlots": 4,
+      "maxRamGb": 192,
+      "pcieGen": "PCIe 4.0",
+      "m2Slots": 3,
+      "hasWifi": true
+    }
+  },
+  {
+    "id": 17,
+    "category": "RAM",
+    "name": "RAM Kingston FURY Beast 8GB (1x8GB) DDR4 3200MHz",
+    "price": 450000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR4",
+      "capacityGb": 8,
+      "modules": "1x8GB",
+      "busSpeed": 3200,
+      "casLatency": 16,
+      "voltage": "1.35V",
+      "rgb": false
+    }
+  },
+  {
+    "id": 18,
+    "category": "RAM",
+    "name": "RAM Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+    "price": 890000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR4",
+      "capacityGb": 16,
+      "modules": "2x8GB",
+      "busSpeed": 3200,
+      "casLatency": 16,
+      "voltage": "1.35V",
+      "rgb": false
+    }
+  },
+  {
+    "id": 19,
+    "category": "RAM",
+    "name": "RAM Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz",
+    "price": 950000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR4",
+      "capacityGb": 16,
+      "modules": "2x8GB",
+      "busSpeed": 3200,
+      "casLatency": 16,
+      "voltage": "1.35V",
+      "rgb": false
+    }
+  },
+  {
+    "id": 20,
+    "category": "RAM",
+    "name": "RAM G.Skill Ripjaws V 32GB (2x16GB) DDR4 3200MHz",
+    "price": 1690000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR4",
+      "capacityGb": 32,
+      "modules": "2x16GB",
+      "busSpeed": 3200,
+      "casLatency": 16,
+      "voltage": "1.35V",
+      "rgb": false
+    }
+  },
+  {
+    "id": 21,
+    "category": "RAM",
+    "name": "RAM Kingston FURY Beast 16GB (2x8GB) DDR5 5600MHz",
+    "price": 1590000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR5",
+      "capacityGb": 16,
+      "modules": "2x8GB",
+      "busSpeed": 5600,
+      "casLatency": 36,
+      "voltage": "1.25V",
+      "rgb": false
+    }
+  },
+  {
+    "id": 22,
+    "category": "RAM",
+    "name": "RAM Corsair Vengeance RGB 32GB (2x16GB) DDR5 6000MHz",
+    "price": 2890000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR5",
+      "capacityGb": 32,
+      "modules": "2x16GB",
+      "busSpeed": 6000,
+      "casLatency": 36,
+      "voltage": "1.35V",
+      "rgb": true
+    }
+  },
+  {
+    "id": 23,
+    "category": "RAM",
+    "name": "RAM G.Skill Trident Z5 Neo RGB 32GB (2x16GB) DDR5 6000MHz",
+    "price": 3290000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR5",
+      "capacityGb": 32,
+      "modules": "2x16GB",
+      "busSpeed": 6000,
+      "casLatency": 30,
+      "voltage": "1.35V",
+      "rgb": true
+    }
+  },
+  {
+    "id": 24,
+    "category": "RAM",
+    "name": "RAM TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5 6000MHz White",
+    "price": 2790000,
+    "image_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "ramType": "DDR5",
+      "capacityGb": 32,
+      "modules": "2x16GB",
+      "busSpeed": 6000,
+      "casLatency": 38,
+      "voltage": "1.35V",
+      "rgb": true
+    }
+  },
+  {
+    "id": 25,
+    "category": "GPU",
+    "name": "VGA MSI GeForce RTX 3060 Ventus 2X 12G OC",
+    "price": 6990000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "GeForce RTX 3060",
+      "vramGb": 12,
+      "vramType": "GDDR6",
+      "lengthMm": 235,
+      "recommendedPsuWattage": 550,
+      "powerPin": "1x 8-pin",
+      "slots": 2
+    }
+  },
+  {
+    "id": 26,
+    "category": "GPU",
+    "name": "VGA Asus Dual GeForce RTX 4060 EVO OC 8GB GDDR6",
+    "price": 7990000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "GeForce RTX 4060",
+      "vramGb": 8,
+      "vramType": "GDDR6",
+      "lengthMm": 227,
+      "recommendedPsuWattage": 550,
+      "powerPin": "1x 8-pin",
+      "slots": 2.5
+    }
+  },
+  {
+    "id": 27,
+    "category": "GPU",
+    "name": "VGA Gigabyte GeForce RTX 4060 Ti GAMING OC 8GB",
+    "price": 10490000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "GeForce RTX 4060 Ti",
+      "vramGb": 8,
+      "vramType": "GDDR6",
+      "lengthMm": 281,
+      "recommendedPsuWattage": 550,
+      "powerPin": "1x 8-pin",
+      "slots": 2
+    }
+  },
+  {
+    "id": 28,
+    "category": "GPU",
+    "name": "VGA MSI GeForce RTX 4070 SUPER 12G VENTUS 2X OC",
+    "price": 16990000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "GeForce RTX 4070 SUPER",
+      "vramGb": 12,
+      "vramType": "GDDR6X",
+      "lengthMm": 242,
+      "recommendedPsuWattage": 650,
+      "powerPin": "1x 16-pin (12VHPWR)",
+      "slots": 2
+    }
+  },
+  {
+    "id": 29,
+    "category": "GPU",
+    "name": "VGA Gigabyte GeForce RTX 4070 SUPER WINDFORCE OC 12GB",
+    "price": 17490000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "GeForce RTX 4070 SUPER",
+      "vramGb": 12,
+      "vramType": "GDDR6X",
+      "lengthMm": 261,
+      "recommendedPsuWattage": 650,
+      "powerPin": "1x 16-pin (12VHPWR)",
+      "slots": 2.5
+    }
+  },
+  {
+    "id": 30,
+    "category": "GPU",
+    "name": "VGA MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 3X BLACK OC",
+    "price": 22890000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "GeForce RTX 4070 Ti SUPER",
+      "vramGb": 16,
+      "vramType": "GDDR6X",
+      "lengthMm": 308,
+      "recommendedPsuWattage": 750,
+      "powerPin": "1x 16-pin (12VHPWR)",
+      "slots": 3
+    }
+  },
+  {
+    "id": 31,
+    "category": "GPU",
+    "name": "VGA Asus TUF Gaming GeForce RTX 4080 SUPER 16GB GDDR6X",
+    "price": 28990000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "GeForce RTX 4080 SUPER",
+      "vramGb": 16,
+      "vramType": "GDDR6X",
+      "lengthMm": 348,
+      "recommendedPsuWattage": 850,
+      "powerPin": "1x 16-pin (12VHPWR)",
+      "slots": 3.65
+    }
+  },
+  {
+    "id": 32,
+    "category": "GPU",
+    "name": "VGA ASRock Radeon RX 6600 Challenger D 8GB GDDR6",
+    "price": 4990000,
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "chipset": "Radeon RX 6600",
+      "vramGb": 8,
+      "vramType": "GDDR6",
+      "lengthMm": 269,
+      "recommendedPsuWattage": 500,
+      "powerPin": "1x 8-pin",
+      "slots": 2
+    }
+  },
+  {
+    "id": 33,
+    "category": "PSU",
+    "name": "Nguồn máy tính MSI MAG A650BN 650W 80 Plus Bronze",
+    "price": 1290000,
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "wattage": 650,
+      "efficiency": "80 Plus Bronze",
+      "modularity": "Non-Modular",
+      "formFactor": "ATX",
+      "pcie5Support": false
+    }
+  },
+  {
+    "id": 34,
+    "category": "PSU",
+    "name": "Nguồn máy tính Corsair CX650M 650W 80 Plus Bronze Semi-Modular",
+    "price": 1490000,
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "wattage": 650,
+      "efficiency": "80 Plus Bronze",
+      "modularity": "Semi-Modular",
+      "formFactor": "ATX",
+      "pcie5Support": false
+    }
+  },
+  {
+    "id": 35,
+    "category": "PSU",
+    "name": "Nguồn máy tính MSI MAG A750GL PCIE5 750W 80 Plus Gold ATX 3.0",
+    "price": 2390000,
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "wattage": 750,
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "formFactor": "ATX",
+      "pcie5Support": true
+    }
+  },
+  {
+    "id": 36,
+    "category": "PSU",
+    "name": "Nguồn máy tính Corsair RM750e 750W 80 Plus Gold ATX 3.0 Fully Modular",
+    "price": 2690000,
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "wattage": 750,
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "formFactor": "ATX",
+      "pcie5Support": true
+    }
+  },
+  {
+    "id": 37,
+    "category": "PSU",
+    "name": "Nguồn máy tính MSI MAG A850GL PCIE5 850W 80 Plus Gold ATX 3.0",
+    "price": 2890000,
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "wattage": 850,
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "formFactor": "ATX",
+      "pcie5Support": true
+    }
+  },
+  {
+    "id": 38,
+    "category": "PSU",
+    "name": "Nguồn máy tính Corsair RM850e 850W 80 Plus Gold ATX 3.0 Fully Modular",
+    "price": 3290000,
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "wattage": 850,
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "formFactor": "ATX",
+      "pcie5Support": true
+    }
+  },
+  {
+    "id": 39,
+    "category": "PSU",
+    "name": "Nguồn máy tính Corsair RM1000e 1000W 80 Plus Gold ATX 3.0 Fully Modular",
+    "price": 4190000,
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "wattage": 1000,
+      "efficiency": "80 Plus Gold",
+      "modularity": "Fully Modular",
+      "formFactor": "ATX",
+      "pcie5Support": true
+    }
+  },
+  {
+    "id": 40,
+    "category": "SSD",
+    "name": "Ổ cứng SSD Kingston NV2 500GB M.2 2280 NVMe PCIe 4.0",
+    "price": 990000,
+    "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "capacityGb": 500,
+      "formFactor": "M.2 2280",
+      "interface": "PCIe 4.0 x4 NVMe",
+      "readSpeed": 3500,
+      "writeSpeed": 2100,
+      "dramCache": false
+    }
+  },
+  {
+    "id": 41,
+    "category": "SSD",
+    "name": "Ổ cứng SSD Kingston NV2 1TB M.2 2280 NVMe PCIe 4.0",
+    "price": 1490000,
+    "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "capacityGb": 1000,
+      "formFactor": "M.2 2280",
+      "interface": "PCIe 4.0 x4 NVMe",
+      "readSpeed": 3500,
+      "writeSpeed": 2100,
+      "dramCache": false
+    }
+  },
+  {
+    "id": 42,
+    "category": "SSD",
+    "name": "Ổ cứng SSD Crucial P3 Plus 1TB M.2 2280 PCIe 4.0 NVMe",
+    "price": 1690000,
+    "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "capacityGb": 1000,
+      "formFactor": "M.2 2280",
+      "interface": "PCIe 4.0 x4 NVMe",
+      "readSpeed": 5000,
+      "writeSpeed": 4200,
+      "dramCache": false
+    }
+  },
+  {
+    "id": 43,
+    "category": "SSD",
+    "name": "Ổ cứng SSD WD Black SN770 1TB M.2 2280 PCIe 4.0 NVMe",
+    "price": 1990000,
+    "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "capacityGb": 1000,
+      "formFactor": "M.2 2280",
+      "interface": "PCIe 4.0 x4 NVMe",
+      "readSpeed": 5150,
+      "writeSpeed": 4900,
+      "dramCache": false
+    }
+  },
+  {
+    "id": 44,
+    "category": "SSD",
+    "name": "Ổ cứng SSD Samsung 980 PRO 1TB M.2 2280 PCIe 4.0 NVMe",
+    "price": 2390000,
+    "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "capacityGb": 1000,
+      "formFactor": "M.2 2280",
+      "interface": "PCIe 4.0 x4 NVMe",
+      "readSpeed": 7000,
+      "writeSpeed": 5000,
+      "dramCache": true
+    }
+  },
+  {
+    "id": 45,
+    "category": "SSD",
+    "name": "Ổ cứng SSD Samsung 990 PRO 1TB M.2 2280 PCIe 4.0 NVMe",
+    "price": 2690000,
+    "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "capacityGb": 1000,
+      "formFactor": "M.2 2280",
+      "interface": "PCIe 4.0 x4 NVMe",
+      "readSpeed": 7450,
+      "writeSpeed": 6900,
+      "dramCache": true
+    }
+  },
+  {
+    "id": 46,
+    "category": "SSD",
+    "name": "Ổ cứng SSD Samsung 990 PRO 2TB M.2 2280 PCIe 4.0 NVMe",
+    "price": 4590000,
+    "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "capacityGb": 2000,
+      "formFactor": "M.2 2280",
+      "interface": "PCIe 4.0 x4 NVMe",
+      "readSpeed": 7450,
+      "writeSpeed": 6900,
+      "dramCache": true
+    }
+  },
+  {
+    "id": 47,
+    "category": "Case",
+    "name": "Vỏ Case Montech AIR 100 ARGB Black (Kèm 4 fan ARGB)",
+    "price": 1150000,
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "formFactor": "Micro-ATX Mid Tower",
+      "supportedMotherboards": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "maxGpuLengthMm": 330,
+      "maxCpuCoolerHeightMm": 161,
+      "radiatorSupportTop": "240mm",
+      "sidePanel": "Kính cường lực",
+      "includedFans": 4
+    }
+  },
+  {
+    "id": 48,
+    "category": "Case",
+    "name": "Vỏ Case Montech AIR 903 MAX Black (Kèm 4 fan cao cấp)",
+    "price": 1690000,
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "formFactor": "ATX Mid Tower",
+      "supportedMotherboards": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "maxGpuLengthMm": 400,
+      "maxCpuCoolerHeightMm": 180,
+      "radiatorSupportTop": "360mm",
+      "sidePanel": "Kính cường lực",
+      "includedFans": 4
+    }
+  },
+  {
+    "id": 49,
+    "category": "Case",
+    "name": "Vỏ Case Montech XR Black (Bể cá kính cường lực góc cong)",
+    "price": 1390000,
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "formFactor": "ATX Mid Tower",
+      "supportedMotherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "maxGpuLengthMm": 420,
+      "maxCpuCoolerHeightMm": 175,
+      "radiatorSupportTop": "360mm",
+      "sidePanel": "Kính cường lực Panoramic",
+      "includedFans": 3
+    }
+  },
+  {
+    "id": 50,
+    "category": "Case",
+    "name": "Vỏ Case Corsair 4000D Airflow Black",
+    "price": 2190000,
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "formFactor": "ATX Mid Tower",
+      "supportedMotherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "maxGpuLengthMm": 360,
+      "maxCpuCoolerHeightMm": 170,
+      "radiatorSupportTop": "280mm / 240mm",
+      "sidePanel": "Kính cường lực",
+      "includedFans": 2
+    }
+  },
+  {
+    "id": 51,
+    "category": "Case",
+    "name": "Vỏ Case NZXT H5 Flow Black (2024 Edition)",
+    "price": 2150000,
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "formFactor": "ATX Mid Tower",
+      "supportedMotherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "maxGpuLengthMm": 365,
+      "maxCpuCoolerHeightMm": 165,
+      "radiatorSupportTop": "240mm",
+      "sidePanel": "Kính cường lực",
+      "includedFans": 2
+    }
+  },
+  {
+    "id": 52,
+    "category": "Case",
+    "name": "Vỏ Case Lian Li LANCOOL 216 RGB Black (Kèm 2 fan 160mm)",
+    "price": 2490000,
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "formFactor": "ATX Mid Tower",
+      "supportedMotherboards": [
+        "E-ATX",
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "maxGpuLengthMm": 392,
+      "maxCpuCoolerHeightMm": 180,
+      "radiatorSupportTop": "360mm",
+      "sidePanel": "Kính cường lực",
+      "includedFans": 3
+    }
+  },
+  {
+    "id": 53,
+    "category": "Case",
+    "name": "Vỏ Case NZXT H9 Flow White Dual-Chamber",
+    "price": 3990000,
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "formFactor": "ATX Dual-Chamber Mid Tower",
+      "supportedMotherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "maxGpuLengthMm": 435,
+      "maxCpuCoolerHeightMm": 165,
+      "radiatorSupportTop": "360mm",
+      "sidePanel": "Kính cường lực kép",
+      "includedFans": 4
+    }
+  },
+  {
+    "id": 54,
+    "category": "Cooler",
+    "name": "Tản nhiệt khí DeepCool AK400 4 ống đồng",
+    "price": 650000,
+    "image_url": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "coolerType": "Air Cooler",
+      "heightMm": 155,
+      "fanRpm": 1850,
+      "noiseLevelDb": 29.0,
+      "maxTdpSupport": 220,
+      "supportedSockets": [
+        "LGA1700",
+        "AM4",
+        "AM5",
+        "LGA1200"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "category": "Cooler",
+    "name": "Tản nhiệt khí Thermalright Peerless Assassin 120 SE",
+    "price": 790000,
+    "image_url": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "coolerType": "Air Cooler (Tháp đôi)",
+      "heightMm": 155,
+      "fanRpm": 1550,
+      "noiseLevelDb": 25.6,
+      "maxTdpSupport": 245,
+      "supportedSockets": [
+        "LGA1700",
+        "AM4",
+        "AM5",
+        "LGA1200"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "category": "Cooler",
+    "name": "Tản nhiệt khí Thermalright Phantom Spirit 120 SE ARGB",
+    "price": 950000,
+    "image_url": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "coolerType": "Air Cooler (Tháp đôi 7 ống)",
+      "heightMm": 154,
+      "fanRpm": 1500,
+      "noiseLevelDb": 25.6,
+      "maxTdpSupport": 280,
+      "supportedSockets": [
+        "LGA1700",
+        "AM4",
+        "AM5",
+        "LGA1200"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "category": "Cooler",
+    "name": "Tản nhiệt khí DeepCool AK620 ZERO DARK (All Black)",
+    "price": 1450000,
+    "image_url": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "coolerType": "Air Cooler (Tháp đôi 6 ống)",
+      "heightMm": 160,
+      "fanRpm": 1850,
+      "noiseLevelDb": 28.0,
+      "maxTdpSupport": 260,
+      "supportedSockets": [
+        "LGA1700",
+        "AM4",
+        "AM5",
+        "LGA1200"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "category": "Cooler",
+    "name": "Tản nhiệt nước AIO Thermalright Aqua Elite 360 V3 ARGB",
+    "price": 1390000,
+    "image_url": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "coolerType": "AIO Liquid Cooler 360mm",
+      "radiatorSizeMm": 360,
+      "fanRpm": 1500,
+      "noiseLevelDb": 25.6,
+      "maxTdpSupport": 300,
+      "supportedSockets": [
+        "LGA1700",
+        "AM4",
+        "AM5",
+        "LGA1200"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "category": "Cooler",
+    "name": "Tản nhiệt nước AIO DeepCool LT720 RGB 360mm",
+    "price": 2990000,
+    "image_url": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "coolerType": "AIO Liquid Cooler 360mm",
+      "radiatorSizeMm": 360,
+      "fanRpm": 2250,
+      "noiseLevelDb": 32.9,
+      "maxTdpSupport": 300,
+      "supportedSockets": [
+        "LGA1700",
+        "AM4",
+        "AM5",
+        "LGA1200"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "category": "Cooler",
+    "name": "Tản nhiệt nước AIO NZXT Kraken 360 (Màn hình LCD)",
+    "price": 4290000,
+    "image_url": "https://images.unsplash.com/photo-1616423640778-28d1b53229bd?auto=format&fit=crop&w=600&q=80",
+    "specs": {
+      "coolerType": "AIO Liquid Cooler 360mm",
+      "radiatorSizeMm": 360,
+      "fanRpm": 1800,
+      "noiseLevelDb": 30.6,
+      "maxTdpSupport": 320,
+      "supportedSockets": [
+        "LGA1700",
+        "AM4",
+        "AM5",
+        "LGA1200"
+      ]
+    }
+  }
+]
